@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCoreLogger", "AspCoreLogger\AspCoreLogger.csproj", "{99C55D36-A188-408A-BA56-920A6F8B7C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLogger", "SharedLogger\SharedLogger.csproj", "{9C6358E9-3536-482F-AD0E-1C3714A43D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C55D36-A188-408A-BA56-920A6F8B7C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C55D36-A188-408A-BA56-920A6F8B7C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C55D36-A188-408A-BA56-920A6F8B7C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C55D36-A188-408A-BA56-920A6F8B7C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6358E9-3536-482F-AD0E-1C3714A43D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6358E9-3536-482F-AD0E-1C3714A43D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6358E9-3536-482F-AD0E-1C3714A43D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6358E9-3536-482F-AD0E-1C3714A43D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E17F52C-F96A-4216-926D-F7C75ECCC86C}
+	EndGlobalSection
+EndGlobal
